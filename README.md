@@ -8,10 +8,12 @@ You'll want to download all of this code locally. The easiest way to do that is 
 
 If you have any trouble doing this, you can download the zip folder of this repo and then extract the files to a local file. Once you have all the files cloned locally, you should make sure you have all the necessary libraries installed.
 
-`$ pip install fpdf`
-`$ pip install pandas numpy matplotlib`
-`$ pip install plotly`
-`$ pip install -U kaleido`
+```
+$ pip install fpdf
+$ pip install pandas numpy matplotlib
+$ pip install plotly
+$ pip install -U kaleido
+```
 
 If you run into an error with NumPy, changing the version to 1.19.3 fixed the issue for me
 
