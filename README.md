@@ -4,9 +4,10 @@ Generate Analytic Report(PDF) in python
 # Setup
 You'll want to download all of this code locally. The easiest way to do that is cloning the repo.
 
-$ git clone https://github.com/KeithGalli/generate-analytics-report.git
+$ git clone https://github.com/az1z1ally/generate-analytics-report.git
 If you have any trouble doing this, you can download the zip folder of this repo and then extract the files to a local file. Once you have all the files cloned locally, you should make sure you have all the necessary libraries installed.
 
+`code`
 $ pip install fpdf
 $ pip install pandas numpy matplotlib
 $ pip install plotly
